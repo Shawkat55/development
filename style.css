@@ -1,0 +1,32 @@
+.text{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+.text-p{
+    color: black;
+    font-size: 35px;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn-custom{
+    border: 1px solid black;
+    background-color: blue;
+    width: 250px;
+    height: 80px;   
+    color: white;
+    font-weight: 600;
+    margin-left: 50%;
+    transform: translate(-50%);
+    transition: all 0.5s;
+    margin-top: 50px;
+}
+.btn-custom:hover{
+    background-color: green;
+}
+.text-quote{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
